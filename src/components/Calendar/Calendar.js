@@ -4,6 +4,7 @@ import WeekTable from './WeekTable/WeekTable';
 
 function Calendar(props) {
     let { date } = props;
+    
 
     return(
         <div className="ui-datepicker">
